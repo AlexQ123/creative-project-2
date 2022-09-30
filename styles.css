@@ -58,12 +58,20 @@
         margin: 0;
     }
     
+    .content {
+        justify-content: center;
+    }
+    
     .content-pic-left {
         padding-left: 0;
     }
     
     .content-pic-right {
         padding-right: 0;
+    }
+    
+    .question {
+        margin-top: 50px;
     }
 }
 
